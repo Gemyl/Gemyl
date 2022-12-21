@@ -1,5 +1,5 @@
 - 😊 Hi, I’m George!
-- 🧑‍🎓 I am pregraduate student at Electrical and Computer Engineering Department of University of Thessaly.
+- 🧑‍🎓 I am undergraduate student at Electrical and Computer Engineering Department of University of Thessaly.
 - ⚡ I have studied electrical circuits/systems analysis and ...
 - 💻 programming in C/C++/Python/MATLAB.
 - 👀 I’m interested in data analysis, machine learning and physical systems modeling.
