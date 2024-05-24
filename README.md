@@ -1,10 +1,12 @@
-- 😊 Hi, I’m George!
-- 🧑‍🎓 I am undergraduate student at Electrical and Computer Engineering Department of University of Thessaly.
-- ⚡ I have studied electrical circuits/systems analysis and ...
-- 💻 programming in C/C++/Python/MATLAB.
-- 👀 I’m interested in data analysis, machine learning and physical systems modeling.
-- 🌱 I’m currently learning full-stack web development.
-- 📬 Reach me out via email: geomilo1998@gmail.com
+- 😊 Hi, I’m Yorgos!
+- ℹ️ I am 26 years old and I am coming from Volos, Greece.
+- 🧑‍🎓 M.Sc. in Electrical and Computer Engineering - University of Thessaly.
+- 💻 1.5 year of working experience as software engineer.
+- ⚡ Angular, Next.js Microsoft .NET Core, Python Flask, MySQL, ArangoDB 
+- ⚙️ Typescript, JavaScript, HTML/CSS, C#, C, Python, SQL
+- 🔄 Docker, Kubernetes
+- ☁️ Azure DevOps Services
+- 📬 geomilo1998@gmail.com
 
 <!---
 Gemyl/Gemyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
